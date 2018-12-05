@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssessmentHelper", "AssessmentHelper\AssessmentHelper.csproj", "{924AD4CB-A341-4ED1-8D29-D6BB180F568C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssessmentHelperLib", "AssessmentHelperLib\AssessmentHelperLib.csproj", "{B10212CA-07F9-45D2-B357-EC10559F2B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924AD4CB-A341-4ED1-8D29-D6BB180F568C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924AD4CB-A341-4ED1-8D29-D6BB180F568C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924AD4CB-A341-4ED1-8D29-D6BB180F568C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924AD4CB-A341-4ED1-8D29-D6BB180F568C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10212CA-07F9-45D2-B357-EC10559F2B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10212CA-07F9-45D2-B357-EC10559F2B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10212CA-07F9-45D2-B357-EC10559F2B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10212CA-07F9-45D2-B357-EC10559F2B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B30028-DF08-4F9A-9630-DA7388D0E6DA}
+	EndGlobalSection
+EndGlobal
